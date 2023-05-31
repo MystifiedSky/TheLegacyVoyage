@@ -1,0 +1,25 @@
+﻿.bg-purple {
+    background-color: #a732fc;
+}
+
+.text-white {
+    color: #ffffff;
+}
+
+.navbar-brand {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.nav-link {
+    font-size: 1.2em;
+    padding: 10px 20px; 
+    border: 2px solid #ffffff;
+    border-radius: 10px; 
+    transition: all 0.3s ease; 
+}
+
+    .nav-link:hover {
+        background-color: #ffffff; 
+        color: #4b0082;
+    }
