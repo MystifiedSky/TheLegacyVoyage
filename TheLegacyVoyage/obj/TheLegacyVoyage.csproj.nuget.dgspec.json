@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Minec\\source\\repos\\TheLegacyVoyage\\TheLegacyVoyage\\TheLegacyVoyage.csproj": {}
+    "F:\\Projects\\TheLegacyVoyage\\TheLegacyVoyage\\TheLegacyVoyage.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Minec\\source\\repos\\TheLegacyVoyage\\TheLegacyVoyage\\TheLegacyVoyage.csproj": {
+    "F:\\Projects\\TheLegacyVoyage\\TheLegacyVoyage\\TheLegacyVoyage.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Minec\\source\\repos\\TheLegacyVoyage\\TheLegacyVoyage\\TheLegacyVoyage.csproj",
+        "projectUniqueName": "F:\\Projects\\TheLegacyVoyage\\TheLegacyVoyage\\TheLegacyVoyage.csproj",
         "projectName": "TheLegacyVoyage",
-        "projectPath": "C:\\Users\\Minec\\source\\repos\\TheLegacyVoyage\\TheLegacyVoyage\\TheLegacyVoyage.csproj",
+        "projectPath": "F:\\Projects\\TheLegacyVoyage\\TheLegacyVoyage\\TheLegacyVoyage.csproj",
         "packagesPath": "C:\\Users\\Minec\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Minec\\source\\repos\\TheLegacyVoyage\\TheLegacyVoyage\\obj\\",
+        "outputPath": "F:\\Projects\\TheLegacyVoyage\\TheLegacyVoyage\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

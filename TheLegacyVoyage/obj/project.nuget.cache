@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CUx3V46ATHaUBqQZmR6uuqbSwjXgp2o0aBr18OAj9a5ofapqOBcCEoUZTZLAAwLkeEsjUZ71FbKh3ZjxSLIDDg==",
+  "dgSpecHash": "6pVkGAvUePBb/7pbKN+TTrW6umBeHxDKK7VF5vwV32zwr81Z3IazRcAoaJH0a4KxnFXzZr9MLvJZbyiwGmgu2g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Minec\\source\\repos\\TheLegacyVoyage\\TheLegacyVoyage\\TheLegacyVoyage.csproj",
+  "projectFilePath": "F:\\Projects\\TheLegacyVoyage\\TheLegacyVoyage\\TheLegacyVoyage.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Minec\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Minec\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
