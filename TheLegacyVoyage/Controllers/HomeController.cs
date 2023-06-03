@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 using TheLegacyVoyage.Models;
 
@@ -41,6 +42,7 @@ namespace TheLegacyVoyage.Controllers
             return View();
         }
 
+        [Authorize]
         public ActionResult StaffApp()
         {
             return View();
